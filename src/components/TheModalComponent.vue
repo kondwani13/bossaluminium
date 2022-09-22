@@ -1,13 +1,13 @@
 <template>
-    <div>
-        
-        <div class="bg-gray-200 rounded-lg z-50  pt-6 shadow-lg w-96 fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+    
+        <div class="h-80 pb-8">
+        <div class="bg-gray-200  rounded-lg z-50  pt-6 shadow-lg w-96 fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
          
          
          
         
               
-              <div class="xl:w-3/5 lg:w-3/5 bg-gray-200 h-full pb-5 xl:pr-5 xl:pl-0 rounded-tr rounded-br">
+              <div class="xl:w-3/5 lg:w-3/5  bg-gray-200 h-full pb-5 xl:pr-5 xl:pl-0 rounded-tr rounded-br">
                <div class="pl-7">
                     <button @click="close" type="button" class="bg-white rounded-md p-2 items-right justify-right text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                     <span class="sr-only">Close menu</span>
@@ -57,7 +57,8 @@
               
            
         </div>
-    </div>
+        </div>
+    
 </template>
 
 <script>

@@ -7,7 +7,7 @@
     
   </div>
   
-  <div class="pl-10 lg:pl-96 inline-flex">
+  <div class="pl-10 pr-3 lg:pl-96 inline-flex">
     
     <button @click="scrollToAnchorPoint('clients')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4 ">clients</button>
     
@@ -19,7 +19,7 @@
     <button @click="scrollToAnchorPoint('about')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">about</button>
     <button @click="scrollToAnchorPoint('reach')" class="hidden lg:block text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">contacts</button>
     <button @click="scrollToAnchorPoint('faq')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">faq</button>
-    <a href="https://wa.me/260975777778" ><img class="w-5 mt-1 ml-2" src="https://i.ibb.co/JzHhXJn/app.png" alt="cw"></a>
+    <a href="https://wa.me/260975777778" ><img class="w-5 mt-1 ml-2 " src="https://i.ibb.co/JzHhXJn/app.png" alt="cw"></a>
     
     
 	
