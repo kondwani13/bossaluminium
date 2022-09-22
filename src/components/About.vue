@@ -11,8 +11,8 @@
                     <img class="lg:block hidden w-full" src="https://i.ibb.co/d7T2CT7/1222-copy.jpg" alt="people discussing on board" />
                     <img class="lg:hidden sm:block hidden w-full" src="https://i.ibb.co/d7T2CT7/1222-copy.jpg" alt="people discussing on board" />
                     <img class="sm:hidden block w-full" src="https://i.postimg.cc/T2njtm8k/122-copy.jpg" alt="people discussing on board" />
-                 <h4 class="text-center">Tarek C.E.O</h4>
-                 <p class="text-gray-400 text-center"><span class="text-indigo-700 text-4x1">"</span>The heart is made of steel</p>
+                 <h4 class="text-center font-bold">Tarek C.E.O</h4>
+                 <p class="text-purple-300 text-center"><span class="text-indigo-700 text-4x1">"</span>The heart is made of steel</p>
                 </div>
             </div>
 
@@ -32,7 +32,7 @@
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
                             <img src="https://i.postimg.cc/85h6jPyw/prof.png" alt="Display avatar of Tom Koch" role="img" />
                             <p class="text-base font-semibold leading-none text-gray-800 mt-2">Sianga</p>
-                            <p class="text-base leading-none text-gray-600 mt-2">Human Resource Manager</p>
+                            <p class="text-base leading-none text-gray-600 mt-2">HR</p>
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
                             <img src="https://i.postimg.cc/85h6jPyw/prof.png" alt="Display avatar of Kera Ann" role="img" />

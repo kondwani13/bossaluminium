@@ -1,7 +1,7 @@
 <template>
     <div>
         
-        <div class="bg-gray-200 rounded-lg  pt-6 shadow-lg w-96 fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-30">
+        <div class="bg-gray-200 rounded-lg z-50  pt-6 shadow-lg w-96 fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
          
          
          

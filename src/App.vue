@@ -2,7 +2,7 @@
 
 <nav class="sticky overflow-x-hidden top-0 opacity-80 font-sans items-center inline-flex  py-1  lg:pl-40  bg-gray-900 shadow w-full z-40">
 
-  <div class="pl-10">
+  <div class="pl-6 lg:pl-10">
     <a @click="scrollToAnchorPoint('home')" class=" "><img class=" w-8" src="https://i.postimg.cc/Wby05tXK/blogo.png" alt="logos"></a>
     
   </div>
@@ -17,8 +17,9 @@
        
 
     <button @click="scrollToAnchorPoint('about')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">about</button>
-    <button @click="scrollToAnchorPoint('reach')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">contacts</button>
+    <button @click="scrollToAnchorPoint('reach')" class="hidden lg:block text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">contacts</button>
     <button @click="scrollToAnchorPoint('faq')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">faq</button>
+    <a href="https://wa.me/260975777778" ><img class="w-5 mt-1 ml-2" src="https://i.ibb.co/JzHhXJn/app.png" alt="cw"></a>
     
     
 	
@@ -82,10 +83,10 @@
 
       
     </div>
-    
+    <div class="flex justify-center bg-white p-4"><img class="justify-center w-48 lg:w-auto" src="https://i.ibb.co/7V6cjZJ/logo2.png" alt="p1"></div>
     <div class="justify-center overflow-x-hidden   bg-blue-back1 w-full inline-flex pb-4 pt-10 px-4  lg:space-x-36 ">
       <div class="pl-5">
-        <img class="w-[40px] lg:w-auto ml-1" src="https://i.postimg.cc/MGjKR58Z/p1.png" alt="p1">
+        <img class="w-[40px] lg:w-auto ml-2" src="https://i.postimg.cc/MGjKR58Z/p1.png" alt="p1">
        
       <button  @click="activeTab = 'Odd'" class="text-sm lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Total projects</button>
       </div>
@@ -257,8 +258,8 @@
 <footer class="hidden lg:block lg:px-24 bg-gray-200 rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
     <div class="sm:flex sm:items-center sm:justify-between">
         <a href="https://flowbite.com/" class="flex items-center mb-4 sm:mb-0">
-            <img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-8" alt="Flowbite Logo">
-            <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+            <img src="https://i.ibb.co/7V6cjZJ/logo2.png" class="mr-3 h-8" alt="Flowbite Logo">
+            <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
         </a>
         <ul class="flex space-x-8 flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
@@ -279,6 +280,11 @@
     <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 Boss Aluminium. All Rights Reserved.
     </span>
 </footer>
+<div class="lg:hidden">
+<hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
+    <span class="flex justify-center p-4 text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 Boss Aluminium. All Rights Reserved.
+    </span>
+    </div>
 
 
 
@@ -306,7 +312,7 @@
 
 
 
- <div class="bg-blue-foot sticky bottom-0 lg:hidden z-50 pb-0 overflow-x-hidden ">
+ <div class="bg-blue-foot sticky bottom-0 lg:hidden z-40 pb-0 overflow-x-hidden overflow-y-0 ">
  <footer class="h-5 mb-3 px-4 pb-6 pt-5 flex inline-flex rounded-t-lg bg-blue-foot w-full items-center text-center space-x-16  justify-center">
 
     <div class="h-1 pb-4"><a href="https://web.facebook.com/BOSS-WOOD-105948045363463" ><img class="w-8" src="https://i.postimg.cc/hvYL8SwN/face.png" alt="home"></a></div>
