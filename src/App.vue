@@ -88,22 +88,22 @@
       <div class="pl-5">
         <img class="w-[40px] lg:w-auto ml-2" src="https://i.postimg.cc/MGjKR58Z/p1.png" alt="p1">
        
-      <button  @click="activeTab = 'Odd'" class="text-sm lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Total projects</button>
+      <button  @click="activeTab = 'Odd'" class="text-xs lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Total projects</button>
       </div>
       <div class="pl-5">
         <img class="w-[40px] lg:w-auto ml-2 " src="https://i.postimg.cc/htYtfw63/s1.png" alt="p1">
         
-       <button  @click="activeTab = 'Lucky'" class="text-sm lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Staff members</button>
+       <button  @click="activeTab = 'Lucky'" class="text-xs lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Staff members</button>
       </div>
       <div class="pl-5">
         <img class="w-[40px] lg:w-auto ml-1 " src="https://i.postimg.cc/qMjRdgLr/t1.png" alt="p1">
         
-       <button  @click="activeTab = 'Niu'" class="text-sm lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Hours of work</button>
+       <button  @click="activeTab = 'Niu'" class="text-xs lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Hours of work</button>
       </div>
       <div class="pl-5">
         <img class="w-[40px] lg:w-auto " src="https://i.postimg.cc/vZTm8MqV/l1.png" alt="p1">
         
-       <button  @click="activeTab = 'Equal'" class="text-sm lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Major cities</button>
+       <button  @click="activeTab = 'Equal'" class="text-xs lg:text-2xl text-indigo-300 hover:text-white pr-5 lg:pr-0 ">Major cities</button>
        </div>
         
     </div>
@@ -312,13 +312,13 @@
 
 
 
- <div class="bg-blue-foot sticky bottom-0 lg:hidden z-40 pb-0 overflow-x-hidden overflow-y-0 ">
- <footer class="h-5 mb-3 px-4 pb-6 pt-5 flex inline-flex rounded-t-lg bg-blue-foot w-full items-center text-center space-x-16  justify-center">
+ <div class="bg-blue-foot sticky bottom-0 lg:hidden z-40 pb-0 overflow-x-hidden overflow-y-hidden ">
+ <footer class="h-4 mb-3 px-4 pb-6 pt-5 flex inline-flex rounded-t-lg bg-blue-foot w-full items-center text-center space-x-16  justify-center">
 
-    <div class="h-1 pb-4"><a href="https://web.facebook.com/BOSS-WOOD-105948045363463" ><img class="w-8" src="https://i.postimg.cc/hvYL8SwN/face.png" alt="home"></a></div>
-    <div class="h-1 pb-4"><button ><img class="w-8" src="https://i.postimg.cc/y6pyCPdn/insta.png" alt="dsign"></button></div>
-    <div class="h-1 pb-4"><button ><img class="w-8" src="https://i.postimg.cc/j5ZQ56hx/pin.png" alt="cw"></button></div>
-    <div class="h-1 pb-4"><button @click.prevent="showModal"><img class="w-8" src="https://i.postimg.cc/zDtg6GBg/email.png" alt="cw"></button></div>
+    <div class="h-1 pb-4"><a href="https://web.facebook.com/BOSS-WOOD-105948045363463" ><img class="w-6" src="https://i.postimg.cc/hvYL8SwN/face.png" alt="home"></a></div>
+    <div class="h-1 pb-4"><a href="https://www.instagram.com/bosswood8627/" ><img class="w-6" src="https://i.postimg.cc/y6pyCPdn/insta.png" alt="dsign"></a></div>
+    <div class="h-1 pb-4"><a href="https://postimg.cc/gallery/gkdZyW1" ><img class="w-6" src="https://i.postimg.cc/j5ZQ56hx/pin.png" alt="cw"></a></div>
+    <div class="h-1 pb-4"><button @click.prevent="showModal"><img class="w-6" src="https://i.postimg.cc/zDtg6GBg/email.png" alt="cw"></button></div>
  </footer>
  </div>
         
