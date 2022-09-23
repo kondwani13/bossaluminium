@@ -65,7 +65,7 @@
                 </summary>
 
                 <span class="px-4 py-2">
-                 That depends on the contruct we agree upon, we offer renovation and maintenance if thats what was agreed upon.
+                 That depends on the contruct we agree upon, we offer renovation and maintenance if that's what was agreed upon.
                 </span>
               </details>
             </div>

@@ -6,6 +6,7 @@
                     <h1 class="xl:text-4xl text-3xl pb-4 text-white font-bold">Get in touch</h1>
                     <p class="text-xl text-white pb-8 leading-relaxed font-normal lg:pr-4">Got a question about us? Are you interested in partnering with us? Have some suggestions or just want to say Hi? Just contact us. We are here to asset you.</p>
                     <div class="flex pb-4 items-center">
+                        
                         <div>
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-phone-call" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
                                 <path stroke="none" d="M0 0h24v24H0z" />
@@ -37,7 +38,7 @@
                 </div>
             </div>
             <div class="xl:w-3/5 lg:w-3/5 bg-gray-200 h-full pt-5 pb-5 xl:pr-5 xl:pl-0 rounded-tr rounded-br">
-                <form id="contact" class="bg-white py-4 px-8 rounded-tr rounded-br">
+                <form @submit.prevent="sendEmail" class="bg-white py-4 px-8 rounded-tr rounded-br">
                     <h1 class="text-4xl text-gray-800 font-extrabold mb-6">Enter Details</h1>
                     <div class="block xl:flex w-full flex-wrap justify-between mb-6">
                         <div class="w-2/4 max-w-xs mb-6 xl:mb-0">

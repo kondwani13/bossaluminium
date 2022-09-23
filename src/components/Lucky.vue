@@ -4,7 +4,7 @@
             <div class="lg:flex justify-start lg:gap-28">
                 <div class="">
                     <h1 class="font-bold text-3x1 lg:text-5xl text-white text-left">staff members = 44</h1>
-                    <p class="pt-3 lg:pt-8 md:pt-4 text-indigo-300 text-left"> We have a dedicated specialized work force in wood working and steel fabrication that see to it that the job gets done with precision and deligence .</p>
+                    <p class="pt-3 lg:pt-8 md:pt-4 text-indigo-300 text-left"> We have a dedicated specialized work force in wood work, glass and steel fabrication that see to it that the job gets done with precision and deligence .</p>
                     
                   
                 </div>
