@@ -45,7 +45,7 @@
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
                             <img src="https://i.postimg.cc/RZLFb74T/anje.png" alt="Display avatar of Shing Co" role="img" />
-                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Anjali</p>
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Mrs Anjali</p>
                             <p class="text-base leading-none text-gray-600 mt-2">General Manager</p>
                         </div>
                     </div>

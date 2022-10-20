@@ -26,7 +26,7 @@
                 </summary>
 
                 <span>
-                We prepair a detailed quotation that answers this question showing
+                We prepare a detailed quotation that answers this question showing
                 the unit price per square meter of the materials being used in the project. 
                 </span>
               </details>
@@ -52,7 +52,7 @@
               </details>
               <details class="mb-4">
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                  Do you sale steel?
+                  Do you sell steel?
                 </summary>
 
                 <span class="px-4 py-2">
@@ -61,11 +61,11 @@
               </details>
               <details class="mb-4">
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                  Do you offer maintenance  services for what you build?
+                  Do you offer maintenance services for what you build?
                 </summary>
 
                 <span class="px-4 py-2">
-                 That depends on the contruct we agree upon, we offer renovation and maintenance if that's what was agreed upon.
+                 That depends on the contract we agree upon, we offer renovation and maintenance if that's what was agreed upon.
                 </span>
               </details>
             </div>

@@ -25,10 +25,12 @@
                                 <polyline points="3 7 12 13 21 7" />
                             </svg>
                         </div>
-                        <p class="pl-4 text-white text-base">bosswood2022@gmail.com</p>
+                        <p class="pl-2 text-white text-base">bosswood2022@gmail.com</p>
+                        <p class="pl-2 text-white text-base">boss.aluminium.investments@gmail.com</p> 
                     </div>
                     <p class="text-lg text-white pt-10 tracking-wide">
-                        Plot 396a/9/A Teagles Rd
+                        Plot 396a/9/A Teagles Rd <br>
+                        8627 for our showroom
                         <br />
                         Makeni, Lusaka, Zambia.
                     </p>
