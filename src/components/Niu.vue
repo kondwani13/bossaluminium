@@ -9,9 +9,9 @@
                     
                 </div>
                 <div class="pt-8 lg:pt-0">
-                    <img src="https://i.ibb.co/jLgkWJQ/h3777566-1-copy.png" alt="man in black suit holding brown paper" class="hidden lg:block" />
+                    <img src="@/images/hours.png" alt="man in black suit holding brown paper" class="hidden lg:block" />
                     <img src="" alt="man in black suit holding brown paper" class="hidden sm:block lg:hidden" />
-                    <img src="https://i.ibb.co/9gD6xdg/h3777566-1sm-copy.png" alt="man in black suit holding brown paper" class="sm:hidden" />
+                    <img src="@/images/hours.png" alt="man in black suit holding brown paper" class="sm:hidden" />
                 </div>
             </div>
         </div>

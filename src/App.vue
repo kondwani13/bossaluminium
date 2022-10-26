@@ -19,7 +19,7 @@
     <button @click="scrollToAnchorPoint('about')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">about</button>
     <button @click="scrollToAnchorPoint('reach')" class="hidden lg:block text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">contacts</button>
     <button @click="scrollToAnchorPoint('faq')" class="text-sm lg:text-lg no-underline text-indigo-300 hover:text-white px-2 lg:px-4">faq</button>
-    <a href="https://wa.me/260975777778" ><img class="w-5 mt-1 ml-2 " src="https://i.ibb.co/JzHhXJn/app.png" alt="cw"></a>
+    <a href="https://wa.me/260975777778" ><img class="w-5 mt-1 ml-2 " src="@/images/app.png" alt="cw"></a>
     
     
 	
@@ -83,7 +83,7 @@
 
       
     </div>
-    <div class="flex justify-center bg-white p-4"><img class="justify-center w-48 lg:w-auto" src="https://i.ibb.co/7V6cjZJ/logo2.png" alt="p1"></div>
+    <div class="flex justify-center bg-white p-4"><img class="justify-center w-48 lg:w-auto" src="@/images/logo2.png" alt="p1"></div>
     <div class="justify-center overflow-x-hidden   bg-blue-back1 w-full inline-flex pb-4 pt-10 px-4  lg:space-x-36 ">
       <div class="pl-5">
         <img class="w-[40px] lg:w-auto ml-2" src="https://i.postimg.cc/MGjKR58Z/p1.png" alt="p1">
@@ -128,9 +128,9 @@
             <div class="lg:flex justify-start lg:gap-28">
 
                 <div class="pt-8 lg:pt-0">
-                    <img src="https://i.ibb.co/3ffjs38/vrbg.png" alt="man in black suit holding brown paper" class="hidden lg:block" />
-                    <img src="https://i.ibb.co/3ffjs38/vrbg.png" alt="man in black suit holding brown paper" class="hidden sm:block lg:hidden" />
-                    <img src="https://i.ibb.co/02DzWv4/vrsm.png" alt="man in black suit holding brown paper" class="sm:hidden" />
+                    <img src="@/images/vrbg.png" alt="man in black suit holding brown paper" class="hidden lg:block" />
+                    <img src="@/images/vrbg.png" alt="man in black suit holding brown paper" class="hidden sm:block lg:hidden" />
+                    <img src="@/images/vrsm.png" alt="man in black suit holding brown paper" class="sm:hidden" />
                 </div>
 
                 <div class="lg:mt-6 lg:pt-3">
@@ -156,15 +156,15 @@
       <div class="flex items-center justify-center px-4 pt-4 lg:px-16 lg:py-12 bg-white w-full inline-flex  space-x-2 lg:space-x-44  ">
       
 
-      <div class=""><button @click="Live = 'Aluminium'"> <img class="pl-4 w-48" src="https://i.ibb.co/Kwx7Lbh/ba.png" alt="sym1">
+      <div class=""><button @click="Live = 'Aluminium'"> <img class="pl-4 w-48" src="@/images/ba.png" alt="sym1">
       
       </button>
       </div>
-      <div class=""><button @click="Live = 'Wood'"><img class="pl-4 w-48" src="https://i.ibb.co/MNHWzTc/bw.png" alt="sym2">
+      <div class=""><button @click="Live = 'Wood'"><img class="pl-4 w-48" src="@/images/bw.png" alt="sym2">
       
       </button>
       </div>
-      <div class=""><button @click="Live = 'Glass'"><img class="pl-4 w-48" src="https://i.ibb.co/vYBkV60/bg.png" alt="sym3">
+      <div class=""><button @click="Live = 'Glass'"><img class="pl-4 w-48" src="@/images/bg.png" alt="sym3">
       
       </button>
       </div>
@@ -342,10 +342,6 @@ import Odd from './components/Odd.vue';
 import Niu from './components/Niu.vue';
 import Lucky from './components/Lucky.vue';
 import Equal from './components/Equal.vue';
-import Register from './components/Register.vue';
-import Purchase from './components/Purchase.vue';
-import Transfer from './components/Transfer.vue';
-import Automatic from './components/Automatic.vue';
 import Aluminium from './components/Aluminium.vue';
 import Wood from './components/Wood.vue';
 import Glass from './components/Glass.vue';
@@ -375,10 +371,6 @@ export default {
       Niu,
       Lucky,
       Equal,
-      Register,
-      Purchase,
-      Transfer,
-      Automatic,
       Aluminium,
       Wood,
       Glass,

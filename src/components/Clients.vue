@@ -68,7 +68,7 @@
         >
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/kmxbMG1/dg.png"
+              src="@/images/dg.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -76,7 +76,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/zZG8rgX/mc.png"
+              src="@/images/mc.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -84,7 +84,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/MMVS0DZ/pg.png"
+              src="@/images/pg.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -92,7 +92,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/7V49XBS/ross.png"
+              src="@/images/ross.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -100,7 +100,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/xg7k0KQ/wwf.png"
+              src="@/images/wwf.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -108,7 +108,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -116,7 +116,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -124,7 +124,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -132,7 +132,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -140,7 +140,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -148,7 +148,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -156,7 +156,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -164,7 +164,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -172,7 +172,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
@@ -180,7 +180,7 @@
           </div>
           <div role="listitem" class="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/h250Mwj/x.png"
+              src="@/images/x.png"
               class="w-16 h-16"
               alt="display avatar"
               role="img"
